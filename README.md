@@ -1,2 +1,2 @@
 # SathvikMadishetty.github
-This website if for web-design for everyone
+This website is for web-design for everyone
